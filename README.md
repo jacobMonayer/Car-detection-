@@ -1,8 +1,8 @@
 # Car-detection-
-##car detection using pre trained YOLO model
-##detection with Threshold - 0.73
-##saving the bounding boxes in this format {object 1, bounding box,...object n:bounding box} as JSON
-##making new video with the bounding boxes
+car detection using pre trained YOLO model
+detection with Threshold - 0.73
+saving the bounding boxes in this format {object 1, bounding box,...object n:bounding box} as JSON
+making new video with the bounding boxes
 
 
 
